@@ -1,0 +1,1 @@
+This task is a part from Task(1) in 'HNGi7 Internship'
